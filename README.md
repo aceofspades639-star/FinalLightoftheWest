@@ -7,7 +7,7 @@ This mod stands on the work of two other projects and could not exist without th
 
 - **Historical Immersion Project (HIP)**, lead developer **Frosty3**. Final Light of the West runs on top of HIP and uses its SWMH map and EMF mechanics.
   https://forum.paradoxplaza.com/forum/threads/historical-immersion-project-download-faq.748775/
-- **When the World Stopped Making Sense (WtWSMS)**, by **tsf4**. The world of 476, its rulers, titles, cultures and faiths, was ported from WtWSMS and then reworked.
+- **When the World Stopped Making Sense (WtWSMS)**, by **Loup and tsf4**. The world of 476, its rulers, titles, cultures and faiths, was ported from WtWSMS and then reworked.
   https://steamcommunity.com/sharedfiles/filedetails/?id=3548940476
 
 All credit for the map, the base mechanics and the original late-antique setting belongs to those teams. Please support their work.
