@@ -58,6 +58,5 @@ https://discord.gg/AFfx6Pd9j
 
 Upcoming Content
 --- A wide array of bug fixes.
---- Fleshed out content for the Merovingian Franks and other barbarians.
-
+--- More fleshed out content in general. Merovingians Franks in particular.
 
