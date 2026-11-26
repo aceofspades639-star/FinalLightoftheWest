@@ -46,7 +46,11 @@ If the main menu shows the title "Final Light of the West" at the top left, the 
 
 ## Known limits
 
-- This is a first release. Expect rough edges, and please report what you find.
+- This is a first release. Expect rough edges, and please report what you find on my discord.
 - Many names and details rest on thin historical evidence. 
 - Some regions far from the Roman world may carry inaccurate province names.
 - The mod is built with one HIP setup (SWMH with EMF). Other HIP combinations are not supported.
+
+## Community and Contacts
+
+https://discord.gg/AFfx6Pd9j
