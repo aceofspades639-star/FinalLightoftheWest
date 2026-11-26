@@ -54,3 +54,10 @@ If the main menu shows the title "Final Light of the West" at the top left, the 
 ## Community and Contacts
 
 https://discord.gg/AFfx6Pd9j
+
+
+Upcoming Content
+--- A wide array of bug fixes.
+--- Fleshed out content for the Merovingian Franks and other barbarians.
+
+
