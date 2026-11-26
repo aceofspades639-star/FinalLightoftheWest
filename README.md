@@ -23,7 +23,7 @@ Event pictures are late-antique originals in the public domain, among them the V
 ## Install
 
 1. Install HIP first, following the instructions on its page.
-2. Download `Finallightofthewest.zip` from this release.
+2. Download `FinalLightOfTheWest.zip` from this release.
 3. Unzip it into `Documents\Paradox Interactive\Crusader Kings II\mod`. You should end up with two folders and two `.mod` files beside HIP's:
    - `FinalLightOfTheWest` and `FinalLightOfTheWest.mod`
    - `FinalLightOfTheWestMusic` and `FinalLightOfTheWestMusic.mod`
