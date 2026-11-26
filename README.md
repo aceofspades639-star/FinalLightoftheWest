@@ -7,7 +7,7 @@ This mod stands on the work of two other projects and could not exist without th
 
 - **Historical Immersion Project (HIP)**, lead developer **Frosty3**. Final Light of the West runs on top of HIP and uses its SWMH map and EMF mechanics.
   https://forum.paradoxplaza.com/forum/threads/historical-immersion-project-download-faq.748775/
-- **When the World Stopped Making Sense (WtWSMS)**, by **Loup and tsf4**. The world of 476, its rulers, titles, cultures and faiths, was ported from WtWSMS and then reworked.
+- **When the World Stopped Making Sense (WtWSMS)**, by **Loup** and **tsf4**. The world of 476, its rulers, titles, cultures and faiths, was ported from WtWSMS and then reworked.
   https://steamcommunity.com/sharedfiles/filedetails/?id=3548940476
 
 All credit for the map, the base mechanics and the original late-antique setting belongs to those teams. Please support their work.
@@ -46,21 +46,7 @@ If the main menu shows the title "Final Light of the West" at the top left, the 
 
 ## Known limits
 
-- This is a first release. Expect rough edges, and please report what you find on my discord.
+- This is a first release. Expect rough edges, and please report what you find.
 - Many names and details rest on thin historical evidence. 
 - Some regions far from the Roman world may carry inaccurate province names.
 - The mod is built with one HIP setup (SWMH with EMF). Other HIP combinations are not supported.
-
-## Community and Contacts
-
-https://discord.gg/AFfx6Pd9j
-
-
-
-## Upcoming Content
-
---- A wide array of bug fixes and balancing
---- More fleshed out content.
---- 641 AD start date later along the line (Heraclius's Death)
-
-
