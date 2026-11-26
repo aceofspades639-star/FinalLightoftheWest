@@ -1,4 +1,4 @@
-# Final Light of the West 1.0
+# Final Light of the West
 
 A total conversion for Crusader Kings II based around late Antiquity. There is only one start date as of now:  2 February 476
 ## Credits
@@ -22,8 +22,8 @@ All credit for the map, the base mechanics and the original late-antique setting
 ## Install
 
 1. Install HIP first, following the instructions on its page on the Paradox Forum.
-2. Download `FinalLightOfTheWest.zip` from this release.
-3. Unzip it into `Documents\Paradox Interactive\Crusader Kings II\mod`. You should end up with two folders and two `.mod` files beside HIP's:
+2. From the [latest release](https://github.com/aceofspades639-star/FinalLightoftheWest/releases/latest), download `FinalLightOfTheWest_1.1.zip` (the mod). For the optional music, also download `FinalLightOfTheWest.zip` from the 1.0 release and take the `FinalLightOfTheWestMusic` folder and its `.mod` file from it.
+3. Unzip into `Documents\Paradox Interactive\Crusader Kings II\mod`. With the music you should end up with two folders and two `.mod` files beside HIP's:
    - `FinalLightOfTheWest` and `FinalLightOfTheWest.mod`
    - `FinalLightOfTheWestMusic` and `FinalLightOfTheWestMusic.mod`
 4. Start the game. In the launcher, tick **HIP - Historical Immersion Project** and **Final Light of the West**. Tick **Final Light of the West Music** as well if you want the music. It is optional.
@@ -43,6 +43,7 @@ If the main menu shows the title "Final Light of the West" at the top left, the 
   - *The north and the steppe:* Clientship Kingship, Forest Chieftaincy, Steppe Khaganate.
 - **Faiths.** Thirty faiths with their own rules, holy sites and events, including the Samaritans and the old religions of the Basques, the Circassians and the Horn of Africa.
 - **Peoples.** A battle tactic for every people, customs as decisions, and sworn bands in place of holy orders.
+- **The Franks and the steppe.** Uniting the Franks as Francia, Clovis's road from Soissons to the baptism, an imperial coronation at Rome, the coming of the Avars, and steppe peoples driven west on to their neighbours.
 - **Ruling.** The Burden of Rule, legitimacy, imperial decay, monuments, societies, and several hundred new events.
 
 ## Known limits
