@@ -17,6 +17,7 @@ All credit for the map, the base mechanics and the original late-antique setting
 
 - Crusader Kings II, version 3.3.5.1.
 - The Historical Immersion Project, the Frosty3 release of 10 July 2020, installed with **SWMH** and **EMF** selected. HIP is not included in this download. Get it from the link above.
+- **Expansions.** Built and tested with all expansions. It runs without them, but several features need their expansion: nomads need Horse Lords, playable pagans need The Old Gods or Holy Fury, societies need Monks and Mystics, councils need Conclave, China needs Jade Dragon.
 
 ## Install
 
