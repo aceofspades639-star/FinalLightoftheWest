@@ -56,7 +56,11 @@ If the main menu shows the title "Final Light of the West" at the top left, the 
 https://discord.gg/AFfx6Pd9j
 
 
-Upcoming Content
---- A wide array of bug fixes.
---- More fleshed out content in general. Merovingians Franks in particular.
+
+## Upcoming Content
+
+--- A wide array of bug fixes and balancing
+--- More fleshed out content.
+--- 641 AD start date later along the line (Heraclius's Death)
+
 
