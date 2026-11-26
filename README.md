@@ -26,7 +26,7 @@ Event pictures are late-antique originals in the public domain, among them the V
 2. Download `FinalLightOfTheWest_with_music.zip` from this release.
 3. Unzip it into `Documents\Paradox Interactive\Crusader Kings II\mod`. You should end up with two folders and two `.mod` files beside HIP's:
    - `FinalLightOfTheWest` and `FinalLightOfTheWest.mod`
-   - `LastLightOfTheWestMusic` and `LastLightOfTheWestMusic.mod`
+   - `FinalLightOfTheWestMusic` and `FinalLightOfTheWestMusic.mod`
 4. Start the game. In the launcher, tick **HIP - Historical Immersion Project** and **Final Light of the West**. Tick **Final Light of the West Music** as well if you want the music. It is optional.
 5. Start a **new game**. Old saves will not work.
 
