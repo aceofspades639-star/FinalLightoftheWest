@@ -22,7 +22,7 @@ All credit for the map, the base mechanics and the original late-antique setting
 ## Install
 
 1. Install HIP first, following the instructions on its page on the Paradox Forum.
-2. From the [latest release](https://github.com/aceofspades639-star/FinalLightoftheWest/releases/latest), download `FinalLightOfTheWest_1.2.zip` (the mod). For the optional music, download `FinalLightOfTheWestMusic.zip` from the [1.1 release](https://github.com/aceofspades639-star/FinalLightoftheWest/releases/tag/v1.1).
+2. From the [latest release](https://github.com/aceofspades639-star/FinalLightoftheWest/releases/latest), download `FinalLightOfTheWest_1.2.1.zip` (the mod). For the optional music, download `FinalLightOfTheWestMusic.zip` from the [1.1 release](https://github.com/aceofspades639-star/FinalLightoftheWest/releases/tag/v1.1).
 3. Unzip each one into `Documents\Paradox Interactive\Crusader Kings II\mod`. With the music you should end up with two folders and two `.mod` files beside HIP's:
    - `FinalLightOfTheWest` and `FinalLightOfTheWest.mod`
    - `FinalLightOfTheWestMusic` and `FinalLightOfTheWestMusic.mod`
